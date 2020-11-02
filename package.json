@@ -1,0 +1,17 @@
+{
+  "name": "fauxyo",
+  "version": "v0.0.0-alpha",
+  "private": true,
+  "scripts": {
+    "start": ""
+  },
+  "dependencies": {
+    "express": "~4.16.1",
+    "method-override": "^3.0.0",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "del": "^5.1.0",
+    "gulp": "^4.0.2"
+  }
+}
